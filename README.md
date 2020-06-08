@@ -1,1 +1,2 @@
-# hierarchical-sentence-encoder TEST
+# Hierarchical Transformer-based Sentence Embeddings
+
