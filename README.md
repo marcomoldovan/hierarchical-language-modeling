@@ -1,2 +1,2 @@
-# Hierarchical Transformer-based Sentence Embeddings
+# Hierarchical Attention-based Text Encoder (HATE)
 
